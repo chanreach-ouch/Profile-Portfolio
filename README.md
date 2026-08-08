@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Building systems that sit between research and production — retrieval pipelines, fine-tuned models, and agents that actually ship.
+Building systems that sit between research and production - retrieval pipelines, fine-tuned models, and agents that actually ship.
 </p>
 
 
@@ -19,15 +19,15 @@ Building systems that sit between research and production — retrieval pipeline
 
 <img align="right" src="./assets/da3bca7721eb51b160dcc31c469f0cdd.jpg" width="280" alt="Developer Illustration"/>
 
-**Chanreach**, Here — a 3rd-year **Data Science & AI Engineering** student at CamTech University (2023–2027) and a working **AI Engineer**.
+**Chanreach**, Here - a 3rd-year **Data Science & AI Engineering** student at CamTech University (2023–2027) and a working **AI Engineer**.
 
-I build systems that sit between research and production — retrieval pipelines, fine-tuned models, and agents that actually ship.
+I build systems that sit between research and production - retrieval pipelines, fine-tuned models, and agents that actually ship.
 
 - Currently building an **AI Matching system** (FastAPI · PostgreSQL · Docker · RAG · LLMs)
 - Also working on a **Khmer OCR Document AI** pipeline
 - Part-time teaching & curriculum writing on the side
 - Core focus: `Machine Learning`, `Deep Learning`, `NLP`, `Computer Vision`, `RAG`, `AI Agents`
-- Currently deep in agentic dev workflows — designing repeatable prompting patterns for AI-assisted engineering
+- ⚡ Currently deep in agentic dev workflows - designing repeatable prompting patterns for AI-assisted engineering
 
 <br clear="right"/>
 
@@ -72,18 +72,23 @@ I build systems that sit between research and production — retrieval pipelines
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/XGBoost-1a1b27?style=for-the-badge&labelColor=1a1b27&color=94A3B8" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/PaddleOCR-1a1b27?style=for-the-badge&labelColor=1a1b27&color=63B3ED" alt="PaddleOCR" />
+  <img src="https://cdn.simpleicons.org/xgboost/94A3B8" height="48" alt="XGBoost" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/paddlepaddle/63B3ED" height="48" alt="PaddleOCR" />
 </p>
 
 <h3 align="center">NLP, LLMs & RAG</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1a1b27&color=9ECE6A" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangSmith-1a1b27?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1a1b27&color=9ECE6A" alt="LangSmith" />
-  <img src="https://img.shields.io/badge/Qdrant-1a1b27?style=for-the-badge&logo=qdrant&logoColor=white&labelColor=1a1b27&color=DC244C" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Cohere-1a1b27?style=for-the-badge&logo=cohere&logoColor=white&labelColor=1a1b27&color=D18EE2" alt="Cohere" />
-  <img src="https://img.shields.io/badge/Groq-1a1b27?style=for-the-badge&logo=groq&logoColor=white&labelColor=1a1b27&color=F55036" alt="Groq" />
+  <img src="https://cdn.simpleicons.org/langchain/9ECE6A" height="48" alt="LangChain" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/9ECE6A" height="48" alt="LangSmith" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48" alt="Qdrant" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cohere/D18EE2" height="48" alt="Cohere" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/groq/F55036" height="48" alt="Groq" />
 </p>
 
 <h2 align="center">GitHub Stats</h2>
