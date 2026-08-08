@@ -2,7 +2,7 @@
   <img src="./assets/78bd6f107d0faaf7a7b209e5b1080310.jpg" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Chanreach</h1>
+<h1 align="center">Hi, I'm Chanreach</h1>
 
 <h3 align="center">AI Engineer | Data Science Student</h3>
 
@@ -15,7 +15,7 @@ Building systems that sit between research and production — retrieval pipeline
 </p>
 
 
-##  <h2 align="center">🚀 About Me </h2>
+<h2 align="center">About Me</h2>
 
 <img align="right" src="./assets/da3bca7721eb51b160dcc31c469f0cdd.jpg" width="280" alt="Developer Illustration"/>
 
@@ -23,15 +23,15 @@ Building systems that sit between research and production — retrieval pipeline
 
 I build systems that sit between research and production — retrieval pipelines, fine-tuned models, and agents that actually ship.
 
-- 🔭 Currently building an **AI Matching system** (FastAPI · PostgreSQL · Docker · RAG · LLMs)
-- 🈶 Also working on a **Khmer OCR Document AI** pipeline
-- 🎓 Part-time teaching & curriculum writing on the side
-- 🧠 Core focus: `Machine Learning`, `Deep Learning`, `NLP`, `Computer Vision`, `RAG`, `AI Agents`
-- ⚡ Currently deep in agentic dev workflows — designing repeatable prompting patterns for AI-assisted engineering
+- Currently building an **AI Matching system** (FastAPI · PostgreSQL · Docker · RAG · LLMs)
+- Also working on a **Khmer OCR Document AI** pipeline
+- Part-time teaching & curriculum writing on the side
+- Core focus: `Machine Learning`, `Deep Learning`, `NLP`, `Computer Vision`, `RAG`, `AI Agents`
+- Currently deep in agentic dev workflows — designing repeatable prompting patterns for AI-assisted engineering
 
 <br clear="right"/>
 
- <h2 align="center">🤝 Connect</h2>
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://github.com/chanreach-ouch">
@@ -47,7 +47,7 @@ I build systems that sit between research and production — retrieval pipelines
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <h3 align="center">Languages & Tools</h3>
 
@@ -86,7 +86,7 @@ I build systems that sit between research and production — retrieval pipelines
   <img src="https://img.shields.io/badge/Groq-1a1b27?style=for-the-badge&labelColor=1a1b27&color=F55036" alt="Groq" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -94,14 +94,14 @@ I build systems that sit between research and production — retrieval pipelines
 
 </div>
 
-<h2 align="center">📈 Activity Graph</h2>
+<h2 align="center">Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanreach-ouch&theme=tokyo-night&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
 </p>
 
 ### 
-<h2 align="center">⌘ Commit Activity</h2>
+<h2 align="center">Commit Activity</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -114,7 +114,7 @@ I build systems that sit between research and production — retrieval pipelines
   <img src="https://raw.githubusercontent.com/chanreach-ouch/chanreach-ouch/output/pacman-contribution-graph-dark.svg">
 </p>
 
-<h2 align="center">⌘ Philosophy</h2>
+<h2 align="center">Philosophy</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
