@@ -79,11 +79,11 @@ I build systems that sit between research and production — retrieval pipelines
 <h3 align="center">NLP, LLMs & RAG</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&labelColor=1a1b27&color=9ECE6A" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangSmith-1a1b27?style=for-the-badge&labelColor=1a1b27&color=9ECE6A" alt="LangSmith" />
-  <img src="https://img.shields.io/badge/Qdrant-1a1b27?style=for-the-badge&labelColor=1a1b27&color=DC244C" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Cohere-1a1b27?style=for-the-badge&labelColor=1a1b27&color=D18EE2" alt="Cohere" />
-  <img src="https://img.shields.io/badge/Groq-1a1b27?style=for-the-badge&labelColor=1a1b27&color=F55036" alt="Groq" />
+  <img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1a1b27&color=9ECE6A" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangSmith-1a1b27?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1a1b27&color=9ECE6A" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/Qdrant-1a1b27?style=for-the-badge&logo=qdrant&logoColor=white&labelColor=1a1b27&color=DC244C" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Cohere-1a1b27?style=for-the-badge&logo=cohere&logoColor=white&labelColor=1a1b27&color=D18EE2" alt="Cohere" />
+  <img src="https://img.shields.io/badge/Groq-1a1b27?style=for-the-badge&logo=groq&logoColor=white&labelColor=1a1b27&color=F55036" alt="Groq" />
 </p>
 
 <h2 align="center">GitHub Stats</h2>
