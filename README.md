@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/da3bca7721eb51b160dcc31c469f0cdd.jpg" alt="Banner" width="100%">
+  <img src="./assets/78bd6f107d0faaf7a7b209e5b1080310.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Chanreach</h1>
@@ -17,7 +17,7 @@ Building systems that sit between research and production — retrieval pipeline
 
 ##  <h2 align="center">🚀 About Me </h2>
 
-<img align="right" src="./assets/78bd6f107d0faaf7a7b209e5b1080310.jpg" width="280" alt="Developer Illustration"/>
+<img align="right" src="./assets/da3bca7721eb51b160dcc31c469f0cdd.jpg" width="280" alt="Developer Illustration"/>
 
 **Chanreach**, Here — a 3rd-year **Data Science & AI Engineering** student at CamTech University (2023–2027) and a working **AI Engineer**.
 
